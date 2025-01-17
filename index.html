@@ -19,43 +19,33 @@
       <div class="converter-form">
         <div class="input-group">
           <label for="amount">Enter Amount</label>
-          <input type="number" id="amount" placeholder="Enter amount" />
+          <input type="number" class="amount" value="1" placeholder="Enter amount" />
         </div>
 
         <div class="currency-wrapper">
-          <div class="input-group">
+          <div class="input-group from-currency">
             <label for="from-currency">From</label>
             <div class="select-container">
               <img src="https://flagsapi.com/US/flat/64.png" />
-              <select id="from-currency">
-                <option value="USD" selected>USD</option>
-                <option value="EUR">EUR</option>
-                <option value="GBP">GBP</option>
-                <option value="NPR">NPR</option>
-                <option value="INR">INR</option>
+              <select name="from-currency">
               </select>
             </div>
           </div>
           <i class="fa-solid fa-arrow-right-arrow-left"></i>
-          <div class="input-group">
+          <div class="input-group to-currency">
             <label for="to-currency">To</label>
             <div class="select-container">
               <img src="https://flagsapi.com/NP/flat/64.png" />
-              <select id="from-currency">
-                <option value="USD">USD</option>
-                <option value="EUR">EUR</option>
-                <option value="GBP">GBP</option>
-                <option value="NPR" selected>NPR</option>
-                <option value="INR">INR</option>
+              <select name="to-currency">
               </select>
             </div>
           </div>
         </div>
 
-        <button id="convert-btn">Convert</button>
+        <button class="convert-btn">Convert</button>
       </div>
       <div class="result">
-        <h3>Converted Amount: <span id="converted-amount">0.00</span></h3>
+        <h3>Converted Amount: <span class="converted-amount">0.00</span></h3>
       </div>
     </div>
     <script src="codes.js"></script>
