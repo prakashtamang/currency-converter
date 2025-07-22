@@ -10,8 +10,9 @@ A simple and interactive **Currency Converter App** built using **HTML**, **CSS*
 - 🖥️ Simple and responsive UI
 
 ## 🖼️ Preview
-
-[Live Demo](https://currency-converter-beige-pi.vercel.app/) *(opens in new tab)* 
+Check out the live version of this project here:  
+👉 [Live Demo](https://currency-converter-beige-pi.vercel.app/)
+Tip: Right-click the link or use `Ctrl + Click` / `Cmd + Click` to open in a new tab.
 
 ## ⚙️ Technologies Used
 
