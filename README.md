@@ -11,7 +11,7 @@ A simple and interactive **Currency Converter App** built using **HTML**, **CSS*
 
 ## 🖼️ Preview
 
-https://to-do-app-one-ochre.vercel.app/
+https://currency-converter-beige-pi.vercel.app/
 
 ## ⚙️ Technologies Used
 
