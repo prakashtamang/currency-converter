@@ -11,7 +11,7 @@ A simple and interactive **Currency Converter App** built using **HTML**, **CSS*
 
 ## 🖼️ Preview
 
-https://currency-converter-beige-pi.vercel.app/
+[Live Demo](https://currency-converter-beige-pi.vercel.app/) *(opens in new tab)* 
 
 ## ⚙️ Technologies Used
 
